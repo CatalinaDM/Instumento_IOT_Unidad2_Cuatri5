@@ -35,6 +35,8 @@ Este repositorio contiene los diagrmas de conexión y el código de los ejercici
 
 [🔗 Diagrama de conexión](https://github.com/CatalinaDM/Instumento_IOT_Unidad2_Cuatri5/blob/main/Diagrama%20de%20Conexi%C3%B3n/KY-017%20M%C3%B3dulo%20Interruptor%20de%20Mercurio.png)
 
+|![Foto](https://github.com/user-attachments/assets/bf50fb07-0dbb-4dd7-bbe3-fc6288a43e6d)|
+
 #### 🎬 Video demostrativo 
 
 [🎥 Video demostrativo](https://drive.google.com/file/d/1MRNK8NkUyFyS7RsgJykeF9EI9qaIy4Kc/view?usp=drive_link)
