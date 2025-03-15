@@ -466,6 +466,16 @@ Este repositorio contiene los diagrmas de conexión y el código de los ejercici
 
 
 
+✅ **Evidencias (Carpetas con todos los archivos):**  
+| Integrante | Evaluación Cisco |
+|-------------|------------------|
+| **Delgado Manzano Carmen Catalina**  | [📁 Drive](https://drive.google.com/drive/folders/1LbMbLSsXTZMMAMmc_FEsJDP9ERXrTUul?usp=drive_link) |
+| **Delgado Manzano Carmen Catalina** | [📁 Códigos Python](https://github.com/CatalinaDM/Instumento_IOT_Unidad2_Cuatri5/tree/main/C%C3%B3digo%20Python)|
+| **Delgado Manzano Carmen Catalina** | [📁 Diagramas de Conexión](https://github.com/CatalinaDM/Instumento_IOT_Unidad2_Cuatri5/tree/main/Diagrama%20de%20Conexi%C3%B3n)|
+
+
+---
+
 # 🌟 *Ejercicio: leds Soldados 
 
 
@@ -473,6 +483,10 @@ Este repositorio contiene los diagrmas de conexión y el código de los ejercici
 | Integrante | Figura | Imagen |
 |--------------|--------|--------|
 | **Delgado Manzano Carmen Catalina** | Led de Corazón |<img src="https://github.com/user-attachments/assets/4105a8ef-c91a-4ada-a4fe-9d52e550dd83" width="300"> <img src="https://github.com/user-attachments/assets/c947f740-1948-494a-8c7c-d311c54e8a65" width="300">|
+|**Video demostrativo**| Led de Corazón|
+[🎥 Video demostrativo]()|
+
+
 
 ---
 
