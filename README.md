@@ -124,11 +124,11 @@ Este repositorio contiene los diagrmas de conexión y el código de los ejercici
 ## KY-023 Joystick				
 #### Codigo Documentado .py
 
-[🔗 Código de Thonny](https://github.com/CatalinaDM/Instumento_IOT_Unidad2_Cuatri5/blob/main/C%C3%B3digo%20Python/KY-002%20Sensor%20de%20Vibraci%C3%B3n.py) 
+[🔗 Código de Thonny](https://github.com/CatalinaDM/Instumento_IOT_Unidad2_Cuatri5/blob/main/C%C3%B3digo%20Python/joystick.py) 
 
 #### Diagrama de conexión
 
-[🔗 Diagrama de conexión](https://github.com/CatalinaDM/Instumento_IOT_Unidad2_Cuatri5/blob/main/C%C3%B3digo%20Python/joystick.py)
+[🔗 Diagrama de conexión](https://github.com/CatalinaDM/Instumento_IOT_Unidad2_Cuatri5/blob/main/Diagrama%20de%20Conexi%C3%B3n/KY-023%20Joystick.png)
 
 <img src="https://github.com/user-attachments/assets/4ff91ec0-e8b5-463c-bf14-4d3b35089362" width="400">
 
@@ -464,8 +464,6 @@ Este repositorio contiene los diagrmas de conexión y el código de los ejercici
 
 [🎥 Video demostrativo](https://drive.google.com/file/d/1l2NzK5XzGtWztRTVWFBG8-q448KzoGI6/view?usp=drive_link)
 
-
-
 ✅ **Evidencias (Carpetas con todos los archivos):**  
 | Integrante | Evaluación Cisco |
 |-------------|------------------|
@@ -473,19 +471,15 @@ Este repositorio contiene los diagrmas de conexión y el código de los ejercici
 | **Delgado Manzano Carmen Catalina** | [📁 Códigos Python](https://github.com/CatalinaDM/Instumento_IOT_Unidad2_Cuatri5/tree/main/C%C3%B3digo%20Python)|
 | **Delgado Manzano Carmen Catalina** | [📁 Diagramas de Conexión](https://github.com/CatalinaDM/Instumento_IOT_Unidad2_Cuatri5/tree/main/Diagrama%20de%20Conexi%C3%B3n)|
 
-
 ---
 
 # 🌟 *Ejercicio: leds Soldados 
-
 
 ✅ **Evidencias:**  
 | Integrante | Figura | Imagen |
 |--------------|--------|--------|
 | **Delgado Manzano Carmen Catalina** | Led de Corazón |<img src="https://github.com/user-attachments/assets/4105a8ef-c91a-4ada-a4fe-9d52e550dd83" width="300"> <img src="https://github.com/user-attachments/assets/c947f740-1948-494a-8c7c-d311c54e8a65" width="300">|
 [🎥 Video demostrativo](https://drive.google.com/file/d/1NQUjAMGJI5v6HhJlZmsjvriqe11keq8m/view?usp=drive_link)|
-
-
 
 ---
 
