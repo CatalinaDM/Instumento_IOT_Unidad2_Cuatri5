@@ -483,7 +483,6 @@ Este repositorio contiene los diagrmas de conexión y el código de los ejercici
 | Integrante | Figura | Imagen |
 |--------------|--------|--------|
 | **Delgado Manzano Carmen Catalina** | Led de Corazón |<img src="https://github.com/user-attachments/assets/4105a8ef-c91a-4ada-a4fe-9d52e550dd83" width="300"> <img src="https://github.com/user-attachments/assets/c947f740-1948-494a-8c7c-d311c54e8a65" width="300">|
-|**Video demostrativo**| Led de Corazón|
 [🎥 Video demostrativo]()|
 
 
